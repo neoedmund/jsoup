@@ -1,0 +1,12 @@
+{ /**neoebuild script*/
+prjs:[
+ [jsoup, java , ],
+ [mypage, mypage , {dep:[jsoup], }]
+],
+debug:true,
+source:7,
+target:7,
+
+}
+                                                             
+
